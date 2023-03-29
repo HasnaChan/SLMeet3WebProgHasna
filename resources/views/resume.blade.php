@@ -66,7 +66,7 @@
               <h5>2014 - 2017</h5>
               <p><em>SMP Negeri 02 RSBI, Semarang</em></p>
               <p>I studied elementary school for 2 years. At this time I was still active as a Taekwondo athlete.</p>
-            </div>
+            </div> 
             <div class="resume-item">
               <h4>Elementary School</h4>
               <h5>2009 - 2014</h5>

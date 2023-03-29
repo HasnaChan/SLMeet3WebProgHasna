@@ -57,9 +57,12 @@
           <div class="section-title">
             <span>Get to know me more!</span>
             <h2>Get to know me more!</h2>
-            <p>As a student of Computer Science, I like to learn about programming languange and other skills related.</p>
+            <p>Hi, my name is Hasna Salsabilla Abdullah. My friends call me Hasna. I was born in Semarang on September 9th 2002.</p>
+            <p>Currently I live in Sentul as a PPTI stundent and I study in Bina Nusantara University. I'm in 5th semester now.</p>
+            <p>As a student of Computer Science, I like to learn about programming languange and other related skills.</p>
             <p>In order to get a work life balance, I like to do some stuffs in my spare time. I also have several hobbies.</p>
-            <p>I like to make a digital drawing, I think it's so cool. I was a Taekwondoin Athlete, but now I started to run twice a week.</p>
+            <p>I like to make a digital drawing, I think it's so cool. I also like cooking and watching anime and K-Drama.</p>
+            <p>I was a Taekwondoin Athlete, but I have no time to do it again now, so I joined running extracurricular and I run twice a week.</p>
           </div>
   
           <div class="row">
@@ -116,9 +119,9 @@
                 </div>
 
                 <div class="progress">
-                  <span class="skill">R <i class="val">68%</i></span>
+                  <span class="skill">C <i class="val">80%</i></span>
                   <div class="progress-bar-wrap">
-                    <div class="progress-bar" role="progressbar" aria-valuenow="68" aria-valuemin="0" aria-valuemax="100"></div>
+                    <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
                   </div>
                 </div>
               </div>
