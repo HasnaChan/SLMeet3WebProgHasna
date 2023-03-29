@@ -57,7 +57,7 @@
       <div class="section-title">
         <span>My Resume</span>
         <h2>My Resume</h2>
-        <p>Sit sint consectetur velit quisquam cupiditate impedit suscipit alias</p>
+        <p>This is my Resume of education.</p>
       </div>
 
       <div class="row">
