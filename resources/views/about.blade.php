@@ -44,7 +44,6 @@
         <li><a class="nav-link scrollto active" href="/about">About</a></li>
         <li><a class="nav-link scrollto" href="/resume">Resume</a></li>
         <li><a class="nav-link scrollto " href="/blog">Blog</a></li>
-        <li><a class="nav-link scrollto" href="/contact">Contact</a></li>
       </ul>
     </nav><!-- .navbar -->
   </header><!-- End Header -->
