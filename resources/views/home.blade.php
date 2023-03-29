@@ -31,6 +31,7 @@
       <ul>
         <li><a class="nav-link scrollto active" href="/home">Home</a></li>
         <li><a class="nav-link scrollto" href="/about">About</a></li>
+        <li><a class="nav-link scrollto" href="/resume">Resume</a></li>
         <li><a class="nav-link scrollto " href="/blog">Blog</a></li>
         <li><a class="nav-link scrollto" href="/contact">Contact</a></li>
       </ul>
