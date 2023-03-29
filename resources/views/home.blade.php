@@ -40,8 +40,8 @@
 
 
     {{-- KONTEN --}}
-    <section id="hero">
-        <div class="hero-container">
+    <section id="home">
+        <div class="home-container">
             <h1>Hasna Salsabilla Abdullah</h1>
             <h2>I'm a student in Bina Nusantara University, majoring in Computer Science.</h2>
           <a href="/about" class="btn-scroll scrollto" title="Scroll Right"><i class="bx bx-chevron-right"></i></a>
@@ -52,13 +52,13 @@
   <footer id="footer">
     <div class="container">
       <h3>Hasna Salsabilla</h3>
-      <h4>Contact me on:</h4>
+      <h6>Contact me on:</h6>
       <div class="social-links">
         <a href="https://www.instagram.com/salsabilla.hasna/" class="instagram"><i class="bx bxl-instagram"></i></a>
         <a href="https://www.linkedin.com/in/hasna-salsabilla-abdullah-189914249/s" class="linkedin"><i class="bx bxl-linkedin"></i></a>
         <a href="https://wa.me/081515856062" class="whatsapp"><i class="bx bxl-whatsapp"></i></a>
       </div>
-      <div> </div>
+      <div class="">Jl. Pakuan No.3, Sumur Batu, Kec. Babakan Madang, Kabupaten Bogor, Jawa Barat 16810 </div>
     </div>
   </footer><!-- End Footer -->
 
