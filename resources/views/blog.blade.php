@@ -20,20 +20,8 @@
     <!-- Template Main CSS File -->
     <link rel="stylesheet" href="node_modules/bootstrap/dist/css/style.css">
 
-    {{-- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous"> --}}
 </head>
 <body data-bs-spy="scroll" data-bs-target=".navbar" data-bs-offset="50">
-
-  <!-- Background image -->
-    {{-- <div
-      class="bg-image"
-      style="
-        background-image: url('https://mdbcdn.b-cdn.net/img/Photos/Others/images/76.webp');
-        height: 100vh;
-      "
-    ></div> --}}
-  <!-- Background image -->
-
 
   <!-- ======= Header ======= -->
   <header id="header" class="fixed-top d-flex justify-content-center align-items-center">
@@ -71,7 +59,7 @@
           <div class="section-title">
             <span>My Article</span>
             <h2>My Article</h2>
-            <p>Below are several articles I made in order to complete my task.</p>
+            <p>Belows are several articles I made in order to complete my task.</p>
           </div>
   
           <div class="blog-list">
