@@ -104,7 +104,7 @@
               </p>
             </div>
             <div class="resume-item">
-              <h4>Graphic Designer Freelance</h4>
+              <h4>Graphic Designer (Freelance)</h4>
               <h5>2018 - 2021</h5>
               <p>
               <ul>
