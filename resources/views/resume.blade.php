@@ -53,7 +53,13 @@
         <div class="row">
           <div class="col-lg-6">
 
-            <h3 class="resume-title">Education</h3>
+            <h3 class="resume-title">Educational Background</h3>
+            <div class="resume-item">
+              <h4>Undergrauate</h4>
+              <h5>2021 - Now</h5>
+              <p><em>Bina Nusantara University</em></p>
+              <p>Currently, I'm a 5th semester student in Binus.</p>
+            </div>
             <div class="resume-item">
               <h4>Senior High School</h4>
               <h5>2017 - 2021</h5>
@@ -64,7 +70,7 @@
               <h4>Junior High School</h4>
               <h5>2014 - 2017</h5>
               <p><em>SMP Negeri 02 RSBI, Semarang</em></p>
-              <p>I studied elementary school for 2 years. At this time I was still active as a Taekwondo athlete.</p>
+              <p>I studied elementary school for 3 years. At this time I was still active as a Taekwondo athlete.</p>
             </div> 
             <div class="resume-item">
               <h4>Elementary School</h4>
@@ -76,28 +82,33 @@
           <div class="col-lg-6">
             <h3 class="resume-title">Professional Experience</h3>
             <div class="resume-item">
-              <h4>Senior graphic design specialist</h4>
-              <h5>2019 - Present</h5>
-              <p><em>Experion, New York, NY </em></p>
+              <h4>Administrator</h4>
+              <h5>2021</h5>
+              <p><em>Ungaran Sari Garment, Kab. Semarang</em></p>
               <p>
               <ul>
-                <li>Lead in the design, development, and implementation of the graphic, layout, and production communication materials</li>
-                <li>Delegate tasks to the 7 members of the design team and provide counsel on all aspects of the project. </li>
-                <li>Supervise the assessment of all graphic materials in order to ensure quality and accuracy of the design</li>
-                <li>Oversee the efficient use of production project budgets ranging from $2,000 - $25,000</li>
+                <li>Administrator in Ungaran Sari Garment 3 Pringapus Ungaran.</li>
               </ul>
               </p>
             </div>
             <div class="resume-item">
-              <h4>Graphic design specialist</h4>
-              <h5>2017 - 2018</h5>
-              <p><em>Stepping Stone Advertising, New York, NY</em></p>
+              <h4>Graphic Design and Illustrator (Intern)</h4>
+              <h5>2020 - 2021</h5>
+              <p><em>Stratup Jaringan Rumah Usaha, Rumah Sasongko, Semarang.</em></p>
               <p>
               <ul>
-                <li>Developed numerous marketing programs (logos, brochures,infographics, presentations, and advertisements).</li>
-                <li>Managed up to 5 projects or tasks at a given time while under pressure</li>
-                <li>Recommended and consulted with clients on the most appropriate graphic design</li>
-                <li>Created 4+ design presentations and proposals a month for clients and account managers</li>
+                <li>Creating assets stock and sell it in online marketplaces.</li>
+                <li>Project leader for Lapbook, Board Games, and Worksheets designs for LembarKerja.id.</li>
+                <li>Recording and diting video for design tutorial video content.</li>
+              </ul>
+              </p>
+            </div>
+            <div class="resume-item">
+              <h4>Graphic Designer Freelance</h4>
+              <h5>2018 - 2021</h5>
+              <p>
+              <ul>
+                <li>Creating every design that customers asked.</li>
               </ul>
               </p>
             </div>
