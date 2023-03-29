@@ -35,7 +35,3 @@ Route::get('/about', function () {
 Route::get('/resume', function () {
     return view('resume');
 });
-
-Route::get('/contact', function () {
-    return view('contact');
-});

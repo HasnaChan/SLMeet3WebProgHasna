@@ -55,13 +55,9 @@
       <div class="social-links">
         <a href="https://www.instagram.com/salsabilla.hasna/" class="instagram"><i class="bx bxl-instagram"></i></a>
         <a href="https://www.linkedin.com/in/hasna-salsabilla-abdullah-189914249/s" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+        <a href="https://wa.me/081515856062" class="whatsapp"><i class="bx bxl-whatsapp"></i></a>
       </div>
-      <div class="copyright">
-        &copy; Copyright <strong><span></span></strong>. All Rights Reserved
-      </div>
-      <div class="credits">
-        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
-      </div>
+      <div> </div>
     </div>
   </footer><!-- End Footer -->
 
