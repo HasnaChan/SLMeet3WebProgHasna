@@ -83,9 +83,9 @@
                     href="https://binus.ac.id/character-building/2023/02/good-netizen/">Good Netizen - Character Building
                 <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
                 <div id="blog-list-2" class="collapse" data-bs-parent=".blog-list">
-                  <p>
+                  <a>
                         Dewasa ini, social media sangat melekat pada kehidupan masyarakat Indonesia. Menurut survey, jumlah pengguna aktif social media di Indonesia mencapai 191 juta orang pada Januari 2022...
-                  </p>
+                  </a>
                 </div>
               </li>
   
@@ -94,9 +94,9 @@
                     href="https://binus.ac.id/character-building/2022/11/refleksi-sumpah-pemuda-masa-kini-2/">Refleksi Sumpah Pemuda Masa Kini
                 <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
                 <div id="blog-list-3" class="collapse" data-bs-parent=".blog-list">
-                  <p>
+                  <a>
                     Sumpah Pemuda. Ya, benar itulah yang selalu bangsa Indonesia peringati setiap tanggal 28 Oktober. Hari dimana Sumpah Pemuda lahir melalui Kongres Pemuda 2, yaitu  tanggal 28 Oktober 1928...
-                  </p>
+                  </a>
                 </div>
               </li>
   
@@ -105,9 +105,9 @@
                     href="https://binus.ac.id/character-building/2023/01/pengakuan-negara-terhadap-pelanggaran-ham-berat-di-masa-lalu-dalam-perspektif-integrasi-nasional/">Pengakuan Negara terhadap Pelanggaran HAM Berat di Masa Lalu dalam Perspektif Integrasi Nasional
                 <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
                 <div id="blog-list-4" class="collapse" data-bs-parent=".blog-list">
-                  <p>
+                  <a>
                     “Kalau kita memiliki pengalaman yang sama, kita bisa memiliki cinta yang sama” -Yustinus Suhardi Ruman
-                  </p>
+                  </a>
                 </div>
               </li>
 
@@ -116,9 +116,9 @@
                     href="https://binus.ac.id/character-building/2022/10/the-dynamics-of-pancasila-democracy/">The Dynamics of Pancasila Democracy
                 <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
                 <div id="blog-list-5" class="collapse" data-bs-parent=".blog-list">
-                  <p>
+                  <a>
                     Demokrasi Pancasila merupakan demokrasi yang merujuk pada sila ke 4 pancasila. 
-                  </p>
+                  </a>
                 </div>
               </li>
 
