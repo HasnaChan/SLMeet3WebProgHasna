@@ -30,3 +30,7 @@ Route::get('/resume', function () {
 Route::get('/blog', function () {
     return view('blog');
 });
+Route::get('/project', function () {
+    return view('project');
+});
+
