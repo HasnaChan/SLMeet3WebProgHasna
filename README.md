@@ -4,7 +4,7 @@
 My name is Hasna Salsabilla Abdullah. This website made with PHP Framework Laravel. The design inspired by Bootstrap and Bootstrapmade. Here is the interface of this website:
 
 
-![1. Home Page]((https://github.com/HasnaChan/SLMeet3WebProgHasna/blob/main/web%20documentation/home.jpg)"Title")
+![1. Home Page](https://github.com/HasnaChan/SLMeet3WebProgHasna/blob/main/web%20documentation/home.jpg"Title")
 
 
 ## License
