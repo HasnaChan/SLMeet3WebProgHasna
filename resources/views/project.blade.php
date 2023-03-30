@@ -61,7 +61,6 @@
               </div>
             </div>
 
-
             <div class="col-lg-4 col-md-6 project-item filter-app">
                 <div class="project-img"><img src="img/facedec.jpg" class="img-fluid" alt=""></div>
                 <div class="project-info">
@@ -79,6 +78,9 @@
                   <a href="https://github.com/HasnaChan/Chrystalia-Hasna" ><i class="bx bx-link"></i></a>
                 </div>
               </div>
+
+              <div class="mt-5"></div>
+
 
               <div class="col-lg-4 col-md-6 project-item filter-app">
                 <div class="project-img"><img src="img/histopatologi.jpg" class="img-fluid" alt=""></div>
