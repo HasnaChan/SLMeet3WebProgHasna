@@ -14,8 +14,6 @@
     <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css">
     <link href="node_modules/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
     <link href="node_modules/boxicons/css/boxicons.min.css" rel="stylesheet">
-    <link href="node_modules/glightbox/css/glightbox.min.css" rel="stylesheet">
-    <link href="node_modules/swiper/swiper-bundle.min.css" rel="stylesheet">
 
     <!-- Template Main CSS File -->
     <link rel="stylesheet" href="node_modules/bootstrap/dist/css/style.css">
@@ -37,18 +35,6 @@
   </header><!-- End Header -->
 
   {{-- KONTEN --}}
-      {{-- <section> --}}
-        {{-- <div clas="blog-page" mt-10>
-            <article class="mb-10">
-                <h2>
-                    <a href="https://binus.ac.id/character-building/2023/02/good-netizen/">Good Netizen - Character Building</a>
-                </h2>
-                <h5>By: Hasna Salsabilla Abdullah</h5>
-                <p>Dewasa ini, social media sangat melekat pada kehidupan masyarakat Indonesia. Menurut survey, jumlah pengguna aktif social media di Indonesia mencapai 191 juta orang pada Januari 2022...</p>
-            </article>
-        </div>
-        
-    </div> --}}
 
 
 
@@ -64,52 +50,25 @@
   
           <div class="blog-list">
             <ul>
-
-  
-              <li data-aos="fade-up" data-aos-delay="200">
-                <a data-bs-toggle="collapse" data-bs-target="#blog-list-2" class="collapsed"
-                    href="https://binus.ac.id/character-building/2023/02/good-netizen/">Good Netizen - Character Building
-                <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
-                <div id="blog-list-2" class="collapse" data-bs-parent=".blog-list">
-                  <a>
-                        Dewasa ini, social media sangat melekat pada kehidupan masyarakat Indonesia. Menurut survey, jumlah pengguna aktif social media di Indonesia mencapai 191 juta orang pada Januari 2022...
-                  </a>
-                </div>
+              <li>
+                <a href="https://binus.ac.id/character-building/2023/02/good-netizen/">Good Netizen - Character Building
+                </a>
               </li>
   
-              <li data-aos="fade-up" data-aos-delay="200">
-                <a data-bs-toggle="collapse" data-bs-target="#blog-list-3" class="collapsed"
-                    href="https://binus.ac.id/character-building/2022/11/refleksi-sumpah-pemuda-masa-kini-2/">Refleksi Sumpah Pemuda Masa Kini
-                <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
-                <div id="blog-list-3" class="collapse" data-bs-parent=".blog-list">
-                  <a>
-                    Sumpah Pemuda. Ya, benar itulah yang selalu bangsa Indonesia peringati setiap tanggal 28 Oktober. Hari dimana Sumpah Pemuda lahir melalui Kongres Pemuda 2, yaitu  tanggal 28 Oktober 1928...
+              <li>
+                  <a href="https://binus.ac.id/character-building/2022/11/refleksi-sumpah-pemuda-masa-kini-2/">Refleksi Sumpah Pemuda Masa Kini
                   </a>
-                </div>
-              </li>
-  
-              <li data-aos="fade-up" data-aos-delay="200">
-                <a data-bs-toggle="collapse" data-bs-target="#blog-list-4" class="collapsed"
-                    href="https://binus.ac.id/character-building/2023/01/pengakuan-negara-terhadap-pelanggaran-ham-berat-di-masa-lalu-dalam-perspektif-integrasi-nasional/">Pengakuan Negara terhadap Pelanggaran HAM Berat di Masa Lalu dalam Perspektif Integrasi Nasional
-                <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
-                <div id="blog-list-4" class="collapse" data-bs-parent=".blog-list">
-                  <a>
-                    “Kalau kita memiliki pengalaman yang sama, kita bisa memiliki cinta yang sama” -Yustinus Suhardi Ruman
-                  </a>
-                </div>
               </li>
 
-              <li data-aos="fade-up" data-aos-delay="200">
-                <a data-bs-toggle="collapse" data-bs-target="#blog-list-5" class="collapsed"
-                    href="https://binus.ac.id/character-building/2022/10/the-dynamics-of-pancasila-democracy/">The Dynamics of Pancasila Democracy
-                <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
-                <div id="blog-list-5" class="collapse" data-bs-parent=".blog-list">
-                  <a>
-                    Demokrasi Pancasila merupakan demokrasi yang merujuk pada sila ke 4 pancasila. 
+              <li>
+                  <a href="https://binus.ac.id/character-building/2023/01/pengakuan-negara-terhadap-pelanggaran-ham-berat-di-masa-lalu-dalam-perspektif-integrasi-nasional/">Pengakuan Negara terhadap Pelanggaran HAM Berat di Masa Lalu dalam Perspektif Integrasi Nasional
                   </a>
-                </div>
               </li>
 
+              <li>
+                  <a href="https://binus.ac.id/character-building/2022/10/the-dynamics-of-pancasila-democracy/">The Dynamics of Pancasila Democracy
+                  </a>
+              </li> 
             </ul>
           </div>
   
