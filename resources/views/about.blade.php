@@ -60,7 +60,7 @@
                   <div class="col-lg-6">
                     <ul>
                       <li><i class="bi bi-chevron-right"></i> <strong>Name: </strong> <span> Hasna Salsabilla Abdullah</span></li>
-                      <li><i class="bi bi-chevron-right"></i> <strong>Instagram: </strong> <span> @Salsabilla.Hasna</span></li>
+                      <li><i class="bi bi-chevron-right"></i> <strong>Birthday: </strong> <span> September 9th 2002</span></li>
                       <li><i class="bi bi-chevron-right"></i> <strong>Phone: </strong> <span> +62 815 158 560 62</span></li>
                       <li><i class="bi bi-chevron-right"></i> <strong>City: </strong> <span> Jakarta, Indonesia</span></li>
                     </ul>
