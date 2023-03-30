@@ -135,11 +135,4 @@
 
 </body>
 
-<!-- JS Files -->
-<script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-  <script src="node_modules/waypoints/noframework.waypoints.js"></script>
-
-<!-- Template Main JS File -->
-<script src="node_modules/bootstrap/dist/js/main.js"></script>
-
 </html>
