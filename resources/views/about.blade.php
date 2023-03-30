@@ -44,12 +44,12 @@
           <div class="section-title">
             <span>Get to know me more!</span>
             <h2>Get to know me more!</h2>
-            <p>Hi, my name is Hasna Salsabilla Abdullah. My friends call me Hasna. I was born in Semarang on September 9th 2002.</p>
-            <p>Currently I live in Sentul as a PPTI stundent and I study in Bina Nusantara University. I'm in 5th semester now.</p>
-            <p>As a student of Computer Science, I like to learn about programming languange and other related skills.</p>
-            <p>In order to get a work life balance, I like to do some stuffs in my spare time. I also have several hobbies.</p>
-            <p>I like to make a digital drawing, I think it's so cool. I also like cooking and watching anime and K-Drama.</p>
-            <p>I was a Taekwondoin Athlete, but I have no time to do it again now, so I joined running extracurricular and I run twice a week.</p>
+            <p>Hi, my name is Hasna Salsabilla Abdullah. My friends call me Hasna. I was born in Semarang on September 9th 2002.
+            Currently I live in Sentul as a PPTI stundent and I study in Bina Nusantara University. I'm in 5th semester now.
+            As a student of Computer Science, I like to learn about programming languange and other related skills.
+            In order to get a work life balance, I like to do some stuffs in my spare time. I also have several hobbies.
+            I like to make a digital drawing, I think it's so cool. I also like cooking and watching anime and K-Drama.
+            I was a Taekwondoin Athlete, but I have no time to do it again now, so I joined running extracurricular and I run twice a week.</p>
           </div>
   
           <div class="row">
