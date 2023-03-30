@@ -59,18 +59,18 @@
                 <div class="row">
                   <div class="col-lg-6">
                     <ul>
-                      <li><i class="bi bi-chevron-right"></i> <strong>Name:</strong> <span>Hasna Salsabilla Abdullah</span></li>
-                      <li><i class="bi bi-chevron-right"></i> <strong>Instagram:</strong> <span>@Salsabilla.Hasna</span></li>
-                      <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+62 815 158 560 62</span></li>
-                      <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>Jakarta, Indonesia</span></li>
+                      <li><i class="bi bi-chevron-right"></i> <strong>Name: </strong> <span> Hasna Salsabilla Abdullah</span></li>
+                      <li><i class="bi bi-chevron-right"></i> <strong>Instagram: </strong> <span> @Salsabilla.Hasna</span></li>
+                      <li><i class="bi bi-chevron-right"></i> <strong>Phone: </strong> <span> +62 815 158 560 62</span></li>
+                      <li><i class="bi bi-chevron-right"></i> <strong>City: </strong> <span> Jakarta, Indonesia</span></li>
                     </ul>
                   </div>
                   <div class="col-lg-6">
                     <ul>
-                      <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>20</span></li>
-                      <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Undergraduate</span></li>
-                      <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span>hasnas291@gmail.com</span></li>
-                      <li><i class="bi bi-chevron-right"></i> <strong>Status:</strong> <span>Student</span></li>
+                      <li><i class="bi bi-chevron-right"></i> <strong>Age: </strong> <span> 20</span></li>
+                      <li><i class="bi bi-chevron-right"></i> <strong>Degree: </strong> <span> Undergraduate</span></li>
+                      <li><i class="bi bi-chevron-right"></i> <strong>Email: </strong> <span> hasnas291@gmail.com</span></li>
+                      <li><i class="bi bi-chevron-right"></i> <strong>Status: </strong> <span> Student</span></li>
                     </ul>
                   </div>
                 </div>
@@ -78,9 +78,9 @@
   
               <div class="skills-content ps-lg-4">
                 <div class="progress">
-                  <span class="skill">PHP <i class="val">80%</i></span>
+                  <span class="skill">PHP <i class="val">78%</i></span>
                   <div class="progress-bar-wrap">
-                    <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+                    <div class="progress-bar" role="progressbar" aria-valuenow="78" aria-valuemin="0" aria-valuemax="100"></div>
                   </div>
                 </div>
   
@@ -99,9 +99,9 @@
                 </div>
 
                 <div class="progress">
-                  <span class="skill">Java <i class="val">75%</i></span>
+                  <span class="skill">Java <i class="val">70%</i></span>
                   <div class="progress-bar-wrap">
-                    <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+                    <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
                   </div>
                 </div>
 

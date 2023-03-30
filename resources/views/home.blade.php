@@ -44,6 +44,9 @@
         </div>
       </section>
 
+      <main class="main">
+      </main>
+
 </body>
  
 </html>
