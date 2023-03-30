@@ -9,7 +9,7 @@ My name is Hasna Salsabilla Abdullah. This website made with PHP Framework Larav
 ![3. Resume Page](https://github.com/HasnaChan/SLMeet3WebProgHasna/blob/main/web%20documentation/resume.jpg)
 ![4. Blog Page](https://github.com/HasnaChan/SLMeet3WebProgHasna/blob/main/web%20documentation/blog.jpg)
 
-**This is what I did to install NPM Bootstrap:**
+**Steps I did to install NPM Bootstrap:**
 
 **Step 1:** Download and install Node.js 
 
