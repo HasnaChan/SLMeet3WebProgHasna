@@ -14,8 +14,6 @@
     <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css">
     <link href="node_modules/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
     <link href="node_modules/boxicons/css/boxicons.min.css" rel="stylesheet">
-    <link href="node_modules/glightbox/css/glightbox.min.css" rel="stylesheet">
-    <link href="node_modules/swiper/swiper-bundle.min.css" rel="stylesheet">
 
     <!-- Template Main CSS File -->
     <link rel="stylesheet" href="node_modules/bootstrap/dist/css/style.css">
@@ -24,15 +22,6 @@
 <body data-bs-spy="scroll" data-bs-target=".navbar" data-bs-offset="50">
 
   <!-- Background image -->
-    {{-- <div
-      class="bg-image"
-      style="
-        background-image: url('https://mdbcdn.b-cdn.net/img/Photos/Others/images/76.webp');
-        height: 100vh;
-      "
-    ></div> --}}
-  <!-- Background image -->
-
 
   <!-- ======= Header ======= -->
   <header id="header" class="fixed-top d-flex justify-content-center align-items-center">
