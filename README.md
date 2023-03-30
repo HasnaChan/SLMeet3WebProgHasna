@@ -1,17 +1,11 @@
 <p align="center"><a href="https://github.com/HasnaChan/SLMeet3WebProgHasna" target="_blank">Hi, I am Hasna.</a></p>
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+## About this Project
+My name is Hasna Salsabilla Abdullah. This website made with PHP Framework Laravel. The design inspired by Bootstrap and Bootstrapmade. Here is the interface of this website:
 
-## About Me
 
-My name is Hasna Salsabilla Abdullah
+![1. Home Page](relative%20path/to/img.jpg?raw=true "Title")
 
 
 ## License
-
-This website design inspired by [Bootstrap]([https://laravel.com/docs/contributions#code-of-conduct](https://getbootstrap.com/docs/5.0/getting-started/introduction/)) and [Bootstrapmade]([https://bootstrapmade.com/]).
+https://www.google.com/search?q=bootstrapmade&oq=bo&aqs=chrome.0.69i59l4j69i60l4.1101j0j7&sourceid=chrome&ie=UTF-8
