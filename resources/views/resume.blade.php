@@ -113,7 +113,19 @@
             </div>
           </div>
         </div>
-
+        <h3 class="resume-title">Project</h3>
+            <div class="resume-item">
+              <h4>FaceDec (Attendance Using Face Recognition and Blink)</h4>
+              <p><a href="https://github.com/HasnaChan/FaceDecProjectAI">Klik here to open project</a></p>
+            </div>
+            <div class="resume-item">
+              <h4>Histopatology Detection using CNN</h4>
+              <p><a href="https://github.com/HasnaChan/Histopatology-Detection-Using-CNN-by-AMB1ST">Klik here to open project</a></p>
+            </div>
+            <div class="resume-item">
+              <h4>BLI Management</h4>
+              <p><a href="https://github.com/HasnaChan/blimanagement">Klik here to open project</a></p>
+            </div> 
       </div>
     </section><!-- End My Resume Section -->
 
