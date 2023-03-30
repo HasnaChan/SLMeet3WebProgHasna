@@ -14,4 +14,4 @@ My name is Hasna Salsabilla Abdullah
 
 ## License
 
-This website design inspired by [Bootstrap]([https://laravel.com/docs/contributions#code-of-conduct](https://getbootstrap.com/docs/5.0/getting-started/introduction/)) and [Bootstrapmade]([https://bootstrapmade.com/]))).
+This website design inspired by [Bootstrap]([https://laravel.com/docs/contributions#code-of-conduct](https://getbootstrap.com/docs/5.0/getting-started/introduction/)) and [Bootstrapmade]([https://bootstrapmade.com/]).
