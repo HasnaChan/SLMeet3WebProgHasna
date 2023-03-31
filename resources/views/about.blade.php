@@ -14,6 +14,7 @@
     <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css">
     <link href="node_modules/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
     <link href="node_modules/boxicons/css/boxicons.min.css" rel="stylesheet">
+    <link href="node_modules/aos/dist/aos.css" rel="stylesheet">
 
     <!-- Template Main CSS File -->
     <link rel="stylesheet" href="node_modules/bootstrap/dist/css/style.css">
@@ -56,8 +57,8 @@
           <div class="row">
             <div class="image col-lg-4 d-flex align-items-stretch justify-content-center justify-content-lg-start"></div>
             <div class="col-lg-8 d-flex flex-column align-items-stretch">
-              <div class="content ps-lg-4 d-flex flex-column justify-content-center">
-                <div class="row">
+              <div class="content ps-lg-4 d-flex flex-column justify-content-center" >
+                <div class="row" data-aos="fade up" data-aos-duration="2000">
                   <div class="col-lg-6">
                     <ul>
                       <li><i class="bi bi-chevron-right"></i> <strong>Name: </strong> <span> Hasna Salsabilla Abdullah</span></li>
@@ -142,5 +143,9 @@
 
 <!-- Template Main JS File -->
 <script src="node_modules/bootstrap/dist/js/main.js"></script>
-
+<script src="node_modules/aos/dist/aos.js"></script>
+{{-- script for animate on scroll --}}
+<script>
+  AOS.init();
+</script>
 </html>
