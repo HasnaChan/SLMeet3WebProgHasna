@@ -66,7 +66,7 @@ My name is Hasna Salsabilla Abdullah. This website made with PHP Framework Larav
 
 **Step 9:** Update bootstrap.js
    ```
-       import loadash from 'lodash'
+    import loadash from 'lodash'
     window._ = loadash
 
 
@@ -85,7 +85,7 @@ My name is Hasna Salsabilla Abdullah. This website made with PHP Framework Larav
    ```
    import './bootstrap';
 
-    import '../sass/app.scss'
+   import '../sass/app.scss'
    ```
 **Step 11:** Replace mix() with @vite Blade directive
    ```
