@@ -1,7 +1,7 @@
 <p align="center"><a href="https://github.com/HasnaChan/SLMeet3WebProgHasna" target="_blank">Hi, I am Hasna.</a></p>
 
 ## About this Project
-My name is Hasna Salsabilla Abdullah. This website made with PHP Framework Laravel. The design inspired by Bootstrap. Here is the interface of this website:
+My name is Hasna Salsabilla Abdullah. This website made with PHP Framework Laravel. The design inspired by Bootstrap. I also made some transition effect in this website so the readers won't get bored. Here is the interface of this website:
 
 
 **1. Home Page**
