@@ -26,11 +26,11 @@
 
     <nav id="navbar" class="navbar" >
       <ul>
-        <li><a class="nav-link scrollto " href="/home">Home</a></li>
-        <li><a class="nav-link scrollto " href="/about">About</a></li>
-        <li><a class="nav-link scrollto" href="/resume">Resume</a></li>
-        <li><a class="nav-link scrollto active" href="/project">Project</a></li>
-        <li><a class="nav-link scrollto " href="/blog">Blog</a></li>
+        <li><a class="nav-link " href="/home">Home</a></li>
+        <li><a class="nav-link " href="/about">About</a></li>
+        <li><a class="nav-link" href="/resume">Resume</a></li>
+        <li><a class="nav-link active" href="/project">Project</a></li>
+        <li><a class="nav-link " href="/blog">Blog</a></li>
       </ul>
     </nav><!-- .navbar -->
   </header><!-- End Header -->
