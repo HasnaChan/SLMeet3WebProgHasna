@@ -4,11 +4,16 @@
 My name is Hasna Salsabilla Abdullah. This website made with PHP Framework Laravel. The design inspired by Bootstrap. Here is the interface of this website:
 
 
-![1. Home Page](https://github.com/HasnaChan/SLMeet3WebProgHasna/blob/main/web%20documentation/home.jpg)
-![2. About Me Page](https://github.com/HasnaChan/SLMeet3WebProgHasna/blob/main/web%20documentation/aboutme.jpg)
-![3. Resume Page](https://github.com/HasnaChan/SLMeet3WebProgHasna/blob/main/web%20documentation/resume.jpg)
-![4. Project Page](https://github.com/HasnaChan/SLMeet3WebProgHasna/blob/main/web%20documentation/project.jpg)
-![5. Blog Page](https://github.com/HasnaChan/SLMeet3WebProgHasna/blob/main/web%20documentation/blog.jpg)
+**1. Home Page**
+![1. Home Page](https://github.com/HasnaChan/SLMeet3WebProgHasna/blob/main/web%20documentation/homenav.jpg)
+**2. About Me Page**
+![2. About Me Page](https://github.com/HasnaChan/SLMeet3WebProgHasna/blob/main/web%20documentation/aboutnav.jpg)
+**3. Resume Page**
+![3. Resume Page](https://github.com/HasnaChan/SLMeet3WebProgHasna/blob/main/web%20documentation/resumenav.jpg)
+**4. Project Page**
+![4. Project Page](https://github.com/HasnaChan/SLMeet3WebProgHasna/blob/main/web%20documentation/projectnav.jpg)
+**5. Blog Page**
+![5. Blog Page](https://github.com/HasnaChan/SLMeet3WebProgHasna/blob/main/web%20documentation/blognav.jpg)
 
 **Steps I did to install NPM Bootstrap:**
 
