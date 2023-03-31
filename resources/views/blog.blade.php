@@ -14,6 +14,7 @@
     <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css">
     <link href="node_modules/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
     <link href="node_modules/boxicons/css/boxicons.min.css" rel="stylesheet">
+    <link href="node_modules/aos/dist/aos.css" rel="stylesheet">
 
     <!-- Template Main CSS File -->
     <link rel="stylesheet" href="node_modules/bootstrap/dist/css/style.css">
@@ -41,7 +42,7 @@
 
       <!-- ======= Blog Section ======= -->
     <section id="blog" class="blog section-bg">
-        <div class="container" data-aos="fade-up">
+        <div class="container" data-aos="fade-up" data-aos-duration="4000">
   
           <div class="section-title">
             <span>My Article</span>
@@ -89,6 +90,12 @@
       <div class="">Jl. Pakuan No.3, Sumur Batu, Kec. Babakan Madang, Kabupaten Bogor, Jawa Barat 16810 </div>
     </div>
   </footer><!-- End Footer -->
-
+<!-- Template Main JS File -->
+<script src="node_modules/aos/dist/aos.js"></script>
 </body>
+
+{{-- script for animate on scroll --}}
+<script>
+  AOS.init();
+</script>
 </html>

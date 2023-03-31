@@ -14,6 +14,7 @@
     <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css">
     <link href="node_modules/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
     <link href="node_modules/boxicons/css/boxicons.min.css" rel="stylesheet">
+    <link href="node_modules/aos/dist/aos.css" rel="stylesheet">
 
     <!-- Template Main CSS File -->
     <link rel="stylesheet" href="node_modules/bootstrap/dist/css/style.css">
@@ -40,7 +41,7 @@
 
     <!-- ======= My Resume Section ======= -->
     <section id="resume" class="resume">
-      <div class="container">
+      <div class="container"  data-aos="fade-up" data-aos-duration="4000">
 
         <div class="section-title">
           <span>My Resume</span>
@@ -140,5 +141,10 @@
 
 <!-- Template Main JS File -->
 <script src="node_modules/bootstrap/dist/js/main.js"></script>
+<script src="node_modules/aos/dist/aos.js"></script>
+{{-- script for animate on scroll --}}
+<script>
+  AOS.init();
+</script>
 
 </html>

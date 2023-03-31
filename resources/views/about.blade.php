@@ -41,7 +41,7 @@
   {{-- KONTEN --}}
       <!-- ======= About Me Section ======= -->
       <section id="about" class="about">
-        <div class="container">
+        <div class="container" data-aos="fade-up" data-aos-duration="4000">
   
           <div class="section-title">
             <span>Get to know me more!</span>
@@ -58,7 +58,7 @@
             <div class="image col-lg-4 d-flex align-items-stretch justify-content-center justify-content-lg-start"></div>
             <div class="col-lg-8 d-flex flex-column align-items-stretch">
               <div class="content ps-lg-4 d-flex flex-column justify-content-center" >
-                <div class="row" data-aos="fade up" data-aos-duration="2000">
+                <div class="row" >
                   <div class="col-lg-6">
                     <ul>
                       <li><i class="bi bi-chevron-right"></i> <strong>Name: </strong> <span> Hasna Salsabilla Abdullah</span></li>

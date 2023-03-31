@@ -14,12 +14,13 @@
     <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css">
     <link href="node_modules/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
     <link href="node_modules/boxicons/css/boxicons.min.css" rel="stylesheet">
+    <link href="node_modules/aos/dist/aos.css" rel="stylesheet">
 
     <!-- Template Main CSS File -->
     <link rel="stylesheet" href="node_modules/bootstrap/dist/css/style.css">
 
 </head>
-<body data-bs-spy="scroll" data-bs-target=".navbar" data-bs-offset="50">
+<body>
 
   <!-- ======= Header ======= -->
   <header id="header" class="fixed-top d-flex justify-content-center align-items-center">
@@ -41,7 +42,7 @@
 
      <!-- ======= My project Section ======= -->
     <section id="project" class="project">
-        <div class="container">
+        <div class="container"  data-aos="fade-up" data-aos-duration="4000">
   
           <div class="section-title">
             <span>My Project</span>
@@ -52,7 +53,7 @@
 
           <div class="row project-container">
   
-            <div class="col-lg-4 col-md-6 project-item filter-app">
+            <div class="col-lg-4 col-md-6">
               <div class="project-img"><img src="img/blimanagement.jpg" class="img-fluid" alt=""></div>
               <div class="project-info">
                 <h4>Website App</h4>
@@ -61,7 +62,7 @@
               </div>
             </div>
 
-            <div class="col-lg-4 col-md-6 project-item filter-app">
+            <div class="col-lg-4 col-md-6">
                 <div class="project-img"><img src="img/facedec.jpg" class="img-fluid" alt=""></div>
                 <div class="project-info">
                   <h4>AI Project</h4>
@@ -70,7 +71,7 @@
                 </div>
               </div>
 
-            <div class="col-lg-4 col-md-6 project-item filter-app">
+            <div class="col-lg-4 col-md-6">
                 <div class="project-img"><img src="img/fugemy.jpg" class="img-fluid" alt=""></div>
                 <div class="project-info">
                   <h4>Lab HCI Website Project</h4>
@@ -82,7 +83,7 @@
               <div class="mt-5"></div>
 
 
-              <div class="col-lg-4 col-md-6 project-item filter-app">
+              <div class="col-lg-4 col-md-6">
                 <div class="project-img"><img src="img/histopatologi.jpg" class="img-fluid" alt=""></div>
                 <div class="project-info">
                   <h4>Machine Learning Model</h4>
@@ -91,7 +92,7 @@
                 </div>
               </div>
 
-              <div class="col-lg-4 col-md-6 project-item filter-app">
+              <div class="col-lg-4 col-md-6">
                 <div class="project-img"><img src="img/bokuno.jpg" class="img-fluid" alt=""></div>
                 <div class="project-info">
                   <h4>Design Portfolio</h4>
@@ -100,7 +101,7 @@
                 </div>
               </div>
 
-              <div class="col-lg-4 col-md-6 project-item filter-app">
+              <div class="col-lg-4 col-md-6">
                 <div class="project-img"><img src="img/CF.jpg" class="img-fluid" alt=""></div>
                 <div class="project-info">
                   <h4>Design Portfolio</h4>
@@ -128,5 +129,10 @@
     </div>
   </footer><!-- End Footer -->
 
+  <script src="node_modules/aos/dist/aos.js"></script>
+  {{-- script for animate on scroll --}}
+  <script>
+    AOS.init();
+  </script>
 </body>
 </html>
