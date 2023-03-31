@@ -121,6 +121,55 @@
         </div>
       </section><!-- End About Me Section -->
 
+      <!-- ======= Soft Skills Section ======= -->
+    <section id="softskill" class="softskill">
+      <div class="container a" data-aos="fade-right" data-aos-duration="4000">
+
+        <div class="section-title">
+          <span>Soft Skill</span>
+          <h2>Soft Skill</h2>
+        </div>
+
+        <div class="row">
+          <div class="col-md-6 col-lg-3">
+            <div class="icon-box">
+              <div class="icon"><i class="bx bxl-dribbble"></i></div>
+              <h4 class="title"><h3>Public Speaking</h3></h4>
+              <p class="description">I was a debater in Senior High School and I still active in debate club right now. I am able to deliver speech well and be a good master of ceremony.</p>
+            </div>
+          </div>
+
+          <div class="col-md-6 col-lg-3">
+            <div class="icon-box">
+              <div class="icon"><i class="bx bx-file"></i></div>
+              <h4 class="title"><h3>Team Leader</h3></h4>
+              <p class="description">I managed and be the leader of the project when I was an intern. Currently I active as a mentor in my study group since cawu 1.</p>
+            </div>
+          </div>
+
+          <div class="col-md-6 col-lg-3">
+            <div class="icon-box">
+              <div class="icon"><i class="bx bx-tachometer"></i></div>
+              <h4 class="title"><h3>Software Engineering</h3></h4>
+              <p class="description">As the mentor of my group, I also managing the Software Engineering process from the scratch. I did several project with my team mates which are AI project, Machine Learning, and Web Development.</p>
+            </div>
+          </div>
+
+          <div class="col-md-6 col-lg-3">
+            <div class="icon-box">
+              <div class="icon"><i class="bx bx-world"></i></div>
+              <h4 class="title"><h3>Negotiation</h3></h4>
+              <p class="description">I am kinda good at negotiating with people.</p>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Soft SkillsSection -->
+
+    
+
   <!-- ======= Footer ======= -->
   <footer id="footer">
     <div class="container">
