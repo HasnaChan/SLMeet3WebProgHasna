@@ -8,6 +8,7 @@ My name is Hasna Salsabilla Abdullah. This website made with PHP Framework Larav
 ![1. Home Page](https://github.com/HasnaChan/SLMeet3WebProgHasna/blob/main/web%20documentation/homenav.jpg)
 **2. About Me Page**
 ![2. About Me Page](https://github.com/HasnaChan/SLMeet3WebProgHasna/blob/main/web%20documentation/aboutnav.jpg)
+![2.1 Soft Skill](https://github.com/HasnaChan/SLMeet3WebProgHasna/blob/main/web%20documentation/softskill.jpg)
 **3. Resume Page**
 ![3. Resume Page](https://github.com/HasnaChan/SLMeet3WebProgHasna/blob/main/web%20documentation/resumenav.jpg)
 **4. Project Page**
