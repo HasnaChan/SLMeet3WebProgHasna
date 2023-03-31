@@ -166,7 +166,7 @@
         </div>
 
       </div>
-    </section><!-- End Soft SkillsSection -->
+    </section><!-- End Soft Skills Section -->
 
     
 
