@@ -50,8 +50,9 @@
             Currently I live in Sentul as a PPTI stundent and I study in Bina Nusantara University. I'm in 5th semester now.
             As a student of Computer Science, I like to learn about programming languange and other related skills.
             In order to get a work life balance, I like to do some stuffs in my spare time. I also have several hobbies.
-            I like to make a digital drawing, I think it's so cool. I also like cooking and watching anime and K-Drama.
-            I was a Taekwondoin Athlete, but I have no time to do it again now, so I joined running extracurricular and I run twice a week.</p>
+            I like to make a digital drawing, I think it's so cool. I also sell my designs in design marketplace. I like cooking (I like to make dessert because I like sweet) and watching anime and K-Drama.
+            My top 2 most favorite animes are Jujutsu Kaisen and Kimetsu no Yaiba, and my top 2 favorite K-Dramas are The Glory and Goblin.
+            I was a Taekwondoin Athlete, I joined some competitions and won some of them, I can do Kyorugi (fight) and Pomsae (the art of Taekwondo), but I have no time to do it again now and I can't find a do-jang here, so I joined running extracurricular and I run twice a week.</p>
           </div>
   
           <div class="row">
@@ -80,21 +81,21 @@
   
               <div class="skills-content ps-lg-4">
                 <div class="progress">
-                  <span class="skill">PHP <i class="val">78%</i></span>
+                  <span class="skill">HTML, PHP, CSS, JavaScript, MySQL <i class="val">78%</i></span>
                   <div class="progress-bar-wrap">
                     <div class="progress-bar" role="progressbar" aria-valuenow="78" aria-valuemin="0" aria-valuemax="100"></div>
                   </div>
                 </div>
   
                 <div class="progress">
-                  <span class="skill">Python <i class="val">75%</i></span>
+                  <span class="skill">Python, R<i class="val">75%</i></span>
                   <div class="progress-bar-wrap">
                     <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
                   </div>
                 </div>
   
                 <div class="progress">
-                  <span class="skill">Adobe Illustrator <i class="val">85%</i></span>
+                  <span class="skill">Adobe Photoshop, Adobe Illustrator <i class="val">85%</i></span>
                   <div class="progress-bar-wrap">
                     <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
                   </div>
@@ -108,7 +109,7 @@
                 </div>
 
                 <div class="progress">
-                  <span class="skill">C <i class="val">80%</i></span>
+                  <span class="skill">C, C++ <i class="val">80%</i></span>
                   <div class="progress-bar-wrap">
                     <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
                   </div>
@@ -135,7 +136,10 @@
             <div class="icon-box">
               <div class="icon"><i class="bx bxl-dribbble"></i></div>
               <h4 class="title"><h3>Public Speaking</h3></h4>
-              <p class="description">I was a debater in Senior High School and I still active in debate club right now. I am able to deliver speech well and be a good master of ceremony.</p>
+              <p class="description">I was a debater in Senior High School and I still active in debate club right now.
+                I am able to deliver speech well and be a good master of ceremony.
+                I am able to speak in Indonesia and English and I'm still ini a phase of learning Korean and Japanesse languange.
+              </p>
             </div>
           </div>
 
@@ -143,7 +147,7 @@
             <div class="icon-box">
               <div class="icon"><i class="bx bx-file"></i></div>
               <h4 class="title"><h3>Team Leader</h3></h4>
-              <p class="description">I managed and be the leader of the project when I was an intern. Currently I active as a mentor in my study group since cawu 1.</p>
+              <p class="description">I managed and be the leader of the project when I was an intern. Currently I active as a mentor in my study group since cawu 1. When I was in Senior High School I was the President of the English club in my school. And I was a student council in Junior High School.</p>
             </div>
           </div>
 
