@@ -4,6 +4,10 @@
 My name is Hasna Salsabilla Abdullah. I made this website to accomplished the task that my lecturer (Mr. Anderies) delivered to us as Self Learning Week 3. This website made with PHP Framework Laravel. The design inspired by Bootstrap and AOS. I also made some transition effect in this website so the readers won't get bored. Here is the interface of this website:
 
 
+## Documentation of the website:
+
+
+
 **1. Home Page:**
 This is a welcoming page of all readers who visit thsi website.
 ![1. Home Page](https://github.com/HasnaChan/SLMeet3WebProgHasna/blob/main/web%20documentation/homenav.jpg)
