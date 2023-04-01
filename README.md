@@ -6,7 +6,7 @@ My name is Hasna Salsabilla Abdullah. I made this website to accomplished the ta
 
 ## Documentation of the website:
 
-The website demo can be seen on YouTube by clicking this link below:
+The website demo can be seen on YouTube by clicking this link:
 https://www.youtube.com/watch?v=82O0RY6EpA0 
 
 **1. Home Page:**
