@@ -1,13 +1,21 @@
 <p align="center"><a href="https://github.com/HasnaChan/SLMeet3WebProgHasna" target="_blank">Hi, I am Hasna.</a></p>
 
 ## About this Project
-My name is Hasna Salsabilla Abdullah. I made this website to accomplished the task that my lecturer (Mr. Anderies) delivered to us as Self Learning Week 3. This website made with PHP Framework Laravel. The design inspired by Bootstrap and AOS. I also made some transition effect in this website so the readers won't get bored. Here is the interface of this website:
+My name is Hasna Salsabilla Abdullah from PPTI 12 (NIM: 2502041211). I made this website to accomplished the task that my lecturer (Mr. Anderies) delivered to us as Self Learning Week 3. This website made with PHP Framework Laravel. The design inspired by Bootstrap and AOS. I also made some transition effect in this website so the readers won't get bored. Here is the interface of this website:
 
 
 ## Documentation of the website:
 
 The website demo can be seen on YouTube by clicking this link:
 https://www.youtube.com/watch?v=82O0RY6EpA0 
+
+Or you can watch here : 
+
+
+
+https://user-images.githubusercontent.com/103588041/229284397-fb4e67f3-a50a-4e11-a613-88a17cdaf201.mp4
+
+
 
 **1. Home Page:**
 This is a welcoming page of all readers who visit thsi website.
