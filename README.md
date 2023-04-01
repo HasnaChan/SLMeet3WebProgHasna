@@ -14,6 +14,7 @@ This pages contains some informations about me strating from my name, my hobbies
 **3. Resume Page:**
 In this page you can see my educational background and my Profesional Experiences.
 ![3. Resume Page](https://github.com/HasnaChan/SLMeet3WebProgHasna/blob/main/web%20documentation/resumenav.jpg)
+![3.1 Resume Pae 2] (https://github.com/HasnaChan/SLMeet3WebProgHasna/blob/main/web%20documentation/resumenav2.jpg)
 **4. Project Page:**
 This page shows you some project created by me and my team mates.
 ![4. Project Page](https://github.com/HasnaChan/SLMeet3WebProgHasna/blob/main/web%20documentation/projectnav.jpg)
