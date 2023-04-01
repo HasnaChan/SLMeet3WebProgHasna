@@ -77,6 +77,12 @@
               <p><em>SD Negeri Palebon 03 Semarang, Jawa Tengah</em></p>
               <p>I studied elementary school for 6 years. At this time I was still active as a Taekwondo athlete.</p>
             </div>
+            <div class="resume-item">
+              <h4>Kindergarten</h4>
+              <h5>2007 - 200</h5>
+              <p><em>TK Islam Satria Hassanuddin Semarang, Jawa Tengah</em></p>
+              <p>I started my study since in a playgroup.</p>
+            </div>
           </div>
           <div class="col-lg-6">
             <h3 class="resume-title">Professional Experience</h3>
