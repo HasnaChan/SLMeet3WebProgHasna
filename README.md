@@ -46,7 +46,7 @@ npm run build
 php artisan serve
 ```
 
-**Steps I did to install NPM Bootstrap:**
+## Steps I did to install NPM Bootstrap:
 
 **Step 1:** Download and install Node.js 
 
