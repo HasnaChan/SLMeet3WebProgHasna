@@ -35,6 +35,17 @@ This page shows you some project created by me and my team mates.
 You can read the articles that I wrote in order to fulfil the Character Building: Kewarganegaraan assignments.
 ![5. Blog Page](https://github.com/HasnaChan/SLMeet3WebProgHasna/blob/main/web%20documentation/blognav.jpg)
 
+## If you want to run the website, do this step in cli:
+
+```
+cp .env.example .env
+composer install
+php artisan key:generate
+npm install
+npm run build
+php artisan serve
+```
+
 **Steps I did to install NPM Bootstrap:**
 
 **Step 1:** Download and install Node.js 
