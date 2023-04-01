@@ -5,15 +5,20 @@ My name is Hasna Salsabilla Abdullah. I made this website to accomplished the ta
 
 
 **1. Home Page**
+The is a welcoming page of all readers who visit thsi website.
 ![1. Home Page](https://github.com/HasnaChan/SLMeet3WebProgHasna/blob/main/web%20documentation/homenav.jpg)
 **2. About Me Page**
+This pages contains some informations about me strating from my name, my hobbies, my achievements, and my skills.
 ![2. About Me Page](https://github.com/HasnaChan/SLMeet3WebProgHasna/blob/main/web%20documentation/aboutnav.jpg)
 ![2.1 Soft Skill](https://github.com/HasnaChan/SLMeet3WebProgHasna/blob/main/web%20documentation/softskill.jpg)
 **3. Resume Page**
+In this page you can see my educational background and my Profesional Experiences.
 ![3. Resume Page](https://github.com/HasnaChan/SLMeet3WebProgHasna/blob/main/web%20documentation/resumenav.jpg)
 **4. Project Page**
+This page shows you some project created by me and my team mates.
 ![4. Project Page](https://github.com/HasnaChan/SLMeet3WebProgHasna/blob/main/web%20documentation/projectnav.jpg)
 **5. Blog Page**
+You can read the articles that I wrote in order to fulfil the Character Building: Kewarganegaraan assignments.
 ![5. Blog Page](https://github.com/HasnaChan/SLMeet3WebProgHasna/blob/main/web%20documentation/blognav.jpg)
 
 **Steps I did to install NPM Bootstrap:**
