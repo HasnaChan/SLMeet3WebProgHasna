@@ -25,7 +25,7 @@
   <!-- ======= Header ======= -->
   <header id="header" class="fixed-top d-flex justify-content-center align-items-center">
 
-    <nav id="navbar" class="navbar" >
+    <nav id="navbar" class="navbar" > 
       <ul>
         <li><a class="nav-link " href="/home">Home</a></li>
         <li><a class="nav-link" href="/about">About</a></li>
